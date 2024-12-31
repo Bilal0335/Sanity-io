@@ -18,6 +18,18 @@ export const product = {
       title: 'Product Image',
       type: 'image'
     }
+    // {
+    //   name: 'image',
+    //   title: 'Product image',
+    //   type: 'array',
+    //   of: [
+    //     {
+    //       name: 'img',
+    //       title: 'Image',
+    //       type: 'image'
+    //     }
+    //   ]
+    // }
   ]
 }
 
@@ -26,3 +38,4 @@ export const product = {
 // title:'jacket'
 // }
 // ]
+// field ky under validation ,
